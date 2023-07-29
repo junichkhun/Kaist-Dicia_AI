@@ -10,7 +10,9 @@ balenaEtcher을 사용하여 포맷한 Micro SD카드에 미리 다운 받아둔
 - Repetition -
 컴퓨터와 HDMI선으로 연결하고 실행시켰는데 ERROR 메세지가 떴다.
 다시 한번 이미지를 구워 보았는데 계속해서 에러 메세지가 떴고, Chat GPT에 물어보기까지 했다.
-![chatgpt1](https://github.com/junichkhun/Kaist-Dicia_AI/assets/93816438/3d6e61f8-a3d6-4c09-b413-d064454e32e0) ![chatgpt2](https://github.com/junichkhun/Kaist-Dicia_AI/assets/93816438/39fc045e-3f5f-481e-996f-2bca0eb9f956)
+
+![chatgpt1](https://github.com/junichkhun/Kaist-Dicia_AI/assets/93816438/3d6e61f8-a3d6-4c09-b413-d064454e32e0) 
+![chatgpt2](https://github.com/junichkhun/Kaist-Dicia_AI/assets/93816438/39fc045e-3f5f-481e-996f-2bca0eb9f956)
 
 위 질문에 대한 대답으로 제시된 해답에 따라 하나하나 수정해보며 구웠지만 ERROR 메세지는 계속해서 떴다.
 선생님께서 새로 사오신 Micro SD 카드로 실행해 보아도 마찬가지였다.
