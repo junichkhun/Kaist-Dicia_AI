@@ -9,4 +9,5 @@ balenaEtcher을 사용하여 포맷한 SD카드에 미리 다운 받아둔 이�
 
 - Repetition -
 컴퓨터와 HDMI선으로 연결하고 실행시켰는데 ERROR 메세지가 떴다.
-다시 한번 이미지를 구워 보았는데 
+다시 한번 이미지를 구워 보았는데 ![chatgpt1](https://github.com/junichkhun/Kaist-Dicia_AI/assets/93816438/3d6e61f8-a3d6-4c09-b413-d064454e32e0)
+
