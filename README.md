@@ -2,6 +2,7 @@
 
 - 목표: Jetson Nano 2GB Developer Kit로 이미지 인식하기
 - Start -
+https://www.gloriouscoding.com/f85008b6-4a64-4b41-90a7-17ee121bab47
 처음 시작할 때 USB 카메라가 아닌 CSI를 사용하기로 했다.
 CSI 판을 받아서 Jetson Nano 2GB Developer Kit와 CSI를 조립했다.
 엔비디아에서는 Getting Started with Jetson Nano 2GB Developer Kit에서 Micro SD카드 이미지를 다운받았다.
